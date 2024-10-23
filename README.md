@@ -1,7 +1,7 @@
 
 ### Hi there 👋<h2> I'm Myth</h2>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif)" width="230">
 
 <h3> 👨🏻•💻 About Me </h3>
 
@@ -17,10 +17,10 @@
 
 - 💻 &nbsp; Python | C++ | C# 
 
-<!--
+
 
 - 🔧 &nbsp; ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
--->
+
 
 
 
@@ -44,12 +44,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mythduy&show_icons=true)
 
 <br><br>
-
-
-
-<hr>
-
-
 
 
 
