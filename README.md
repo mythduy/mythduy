@@ -5,15 +5,9 @@
 
 <h3> 👨🏻•💻 About Me </h3>
 
+- 🎓 &nbsp; Studying Information Security at Ho Chi Minh City University of Technology Education
 
-
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-
-- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
-
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
-
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+- 🌱 &nbsp; Passionate about DevOps.
 
 
 
@@ -21,12 +15,11 @@
 
 
 
-- 💻 &nbsp; Python | Java | C++ | C# 
+- 💻 &nbsp; Python | C++ | C# 
 
 <!--
 
-- 🔧 &nbsp; Git 
-
+- 🔧 &nbsp; ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
 -->
 
 
