@@ -1,7 +1,7 @@
 
 ### Hi there 👋<h2> I'm Myth</h2>
 
-<img align='right' src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif)" width="230">
+<img align='right' src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" width="230">
 
 <h3> 👨🏻•💻 About Me </h3>
 
@@ -23,11 +23,6 @@
 
 
 
-
-<h3>🛠 To Learn</h3>
-
-
-<hr>
 
 
 
